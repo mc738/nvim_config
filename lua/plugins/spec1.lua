@@ -11,5 +11,9 @@ return {
 		"williamboman/mason.nvim",
 		"williamboman/mason-lspconfig.nvim",
 		"neovim/nvim-lspconfig"
-	}
+	},
+	-- Rust
+	{
+		"simrat39/rust-tools.nvim"
+	},
 }
