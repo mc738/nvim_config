@@ -22,6 +22,9 @@ return {
 		"hrsh7th/cmp-buffer",
 		"hrsh7th/vim-vsnip"
 	},
+	{
+		"nvim-treesitter/nvim-treesitter"
+	},
 	-- Rust
 	{
 		"simrat39/rust-tools.nvim"
